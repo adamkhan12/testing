@@ -1,3 +1,3 @@
 # testing and adding
-#adding
-#deleting
+adding
+deleting
